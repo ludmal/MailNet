@@ -5,7 +5,8 @@ Lighweight Email framework for Web Apps
 Step 1:
 ---------------
 Configure the web.config file with MailNet settings.
-<mailnet smtpServer="mail.google.com" templatePath="~/email_templates/" username="[your_email_here]" password="your_password_here"></mailnet>
+//Sample Config settings
+"<mailnet smtpServer="mail.google.com" templatePath="~/email_templates/" username="[your_email_here]" password="your_password_here"></mailnet>"
 
 Step 2:
 ---------------
