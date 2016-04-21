@@ -1,3 +1,5 @@
+Obsolete - Please use [AWS.Net with EmailMessage class](https://github.com/ludmal/AWS.Net)
+
 MailNet
 =======
 Lighweight Email framework for Web Apps
